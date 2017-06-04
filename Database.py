@@ -21,7 +21,6 @@ for command in sqlCommands:
     # the DROP TABLE commands
     cursor.execute(FileR())
 
-
 #write
 cursor.execute(FileR())
 #save
