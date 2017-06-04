@@ -26,4 +26,3 @@ def sendmail(username,password,server):
 
 # Starting point
 sendmail(username,password,server)
-
